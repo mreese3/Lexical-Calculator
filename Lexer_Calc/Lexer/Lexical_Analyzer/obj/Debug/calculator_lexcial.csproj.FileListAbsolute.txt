@@ -1,0 +1,59 @@
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\pre_release\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\pre_release\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\pre_release\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\pre_release\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\pre_release\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\pre_release\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\parser\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\parser\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\parser\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\parser\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\parser\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\parser\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_lexcial\calculator_lexcial\bin\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_lexcial\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\bin\Debug\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\bin\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\bin\Debug\calculator_lexcial.pdb
+C:\TestFile\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\$(SolontionDir)\TestFiles\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\$(SolontionDir)\TestFiles\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\$(SolontionDir)\TestFiles\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\TestFiles\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\TestFiles\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\TestFiles\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\PuParser\start\calculator_parser\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\calculator_parser\calculator_lexcial\TestFiles\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\calculator_parser\calculator_lexcial\TestFiles\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\calculator_parser\calculator_lexcial\TestFiles\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\calculator_parser\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\calculator_parser\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\calculator_parser\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\calculator_parser - Plus\calculator_lexcial\TestFiles\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\calculator_parser - Plus\calculator_lexcial\TestFiles\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\calculator_parser - Plus\calculator_lexcial\TestFiles\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\calculator_parser - Plus\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\calculator_parser - Plus\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\calculator_parser - Plus\calculator_lexcial\obj\Debug\calculator_lexcial.pdb
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\TestFiles\calculator_lexcial.exe.config
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\TestFiles\calculator_lexcial.exe
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\TestFiles\calculator_lexcial.pdb
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\obj\Debug\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\obj\Debug\calculator_lexcial.csproj.CoreCompileInputs.cache
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\obj\Debug\calculator_lexcial.exe
+C:\Users\Yuffiek133\Desktop\Project2\calculator_lexcial\obj\Debug\calculator_lexcial.pdb

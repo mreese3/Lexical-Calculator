@@ -1,0 +1,6 @@
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\bin\Release\calculator_lexcial.exe.config
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\bin\Release\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\bin\Release\calculator_lexcial.pdb
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\obj\Release\calculator_lexcial.csprojResolveAssemblyReference.cache
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\obj\Release\calculator_lexcial.exe
+C:\Users\DreamsGo\Desktop\ToC\pu_calc\calculator_lexcial - Copy\calculator_lexcial\calculator_lexcial\obj\Release\calculator_lexcial.pdb

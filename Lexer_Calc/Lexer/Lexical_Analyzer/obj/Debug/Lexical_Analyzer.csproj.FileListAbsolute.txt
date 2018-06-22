@@ -1,0 +1,17 @@
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.exe
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.pdb
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer.exe.config
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer.exe
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer.pdb
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\Lexical_Analyzer.exe.config
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\Lexical_Analyzer.exe
+C:\Users\Yuffiek133\Desktop\Project2\Lexical_Analyzer\Lexical_Analyzer.pdb
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.csprojResolveAssemblyReference.cache
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.csproj.CoreCompileInputs.cache
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\Lexical_Analyzer.exe.config
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.exe
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\obj\Debug\Lexical_Analyzer.pdb
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\Lexical_Analyzer.exe
+D:\Projects\Theory of Computation\Project Code\Lexer_Calc\Lexer\Lexical_Analyzer\Lexical_Analyzer.pdb
